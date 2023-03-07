@@ -24,7 +24,7 @@
 &nbsp;
 
 <center>
-学&ensp;号：<u>20307130XXX</u>
+学&ensp;号：<u>20307130xxx</u>
 </center>
 
 
