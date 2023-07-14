@@ -3,7 +3,7 @@
 &nbsp;
 **<font size=12><p align="center">操作系统实验报告</p></font>**
 &nbsp;
-<font size=6><p align="center">lab3 【Page tables】 </p></font>
+<font size=6><p align="center">lab2 【Page tables】 </p></font>
 &nbsp;&nbsp;
 
 <div align=center><img width = '200' height ='200' src ="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.huawenku.cn%2Fuploads%2F150601%2Fxiaohui.jpg&refer=http%3A%2F%2Fwww.huawenku.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617160664&t=761914188dd5b3da1e91e3a495453919"/></div>
